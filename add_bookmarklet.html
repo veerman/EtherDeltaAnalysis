@@ -1,0 +1,17 @@
+<html>
+	<head>
+		<title>Add EtherDelta Analysis Bookmarklet</title>
+	</head>
+	<body>
+		Drag this <b><a href="javascript:
+		(function(){
+			var script = document.createElement('script');
+			script.src = 'https://cdn.rawgit.com/veerman/EtherDeltaAnalysis/master/bookmarklet.js';
+			script.onload = function(){
+				console.log('EtherDelta Analysis loaded');
+			};
+			document.getElementsByTagName('head')[0].appendChild(script);
+		})();
+		">EDA</a></b> bookmarklet to your bookmarks bar.
+	</body>
+</html>
