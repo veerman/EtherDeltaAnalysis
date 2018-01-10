@@ -1,3 +1,4 @@
+
 # EDA - EtherDelta Analysis
 A **bookmarklet** that displays additional market information on EtherDelta.
 
@@ -7,6 +8,11 @@ I was curious as to which tokens showed the most genuine interest based on the t
 
 ## Why a bookmarklet?
 It's a simple and unobtrusive way to modify an existing page using JavaScript. [More information on bookmarklets](https://en.wikipedia.org/wiki/Bookmarklet).
+
+## How it looks
+![Analysis](https://github.com/veerman/EtherDeltaAnalysis/master/analysis.png)
+
+Please see the examples folder for additional screenshots.
 
 ## Overview of information
 
