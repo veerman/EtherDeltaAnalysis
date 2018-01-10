@@ -1,17 +1,23 @@
 <html>
 	<head>
-		<title>Add EtherDelta Analysis Bookmarklet</title>
+		<title>EtherDelta Analysis (EDA) bookmarklet</title>
 	</head>
 	<body>
-		Drag this <b><a href="javascript:
-		(function(){
-			var script = document.createElement('script');
-			script.src = 'https://cdn.rawgit.com/veerman/EtherDeltaAnalysis/master/bookmarklet.js';
-			script.onload = function(){
-				console.log('EtherDelta Analysis loaded');
-			};
-			document.getElementsByTagName('head')[0].appendChild(script);
-		})();
-		">EDA</a></b> bookmarklet to your bookmarks bar.
+		<h3>Let's add the EtherDelta Analysis (EDA) bookmarklet</h3>
+		<ol>
+			<li>
+			Drag this <b><a href="javascript:
+			(function(){
+				alert('Please Copy + Paste the contents of bookmarklet.js into this bookmarklet');
+			})();
+			">EDA</a></b> bookmarklet to your bookmarks bar.<br /><br />
+			</li>
+			<li>Right-click on newly created bookmarklet, and click edit<br /><br />
+				<img src="setup/edit_bookmarklet_01.png" /><br /><br />	
+			</li>			
+			<li>Copy + Paste the contents of <b></b><a href="bookmarklet.js">bookmarklet.js</a></b> into the above bookmarklet URL (replace previous URL entirely)<br /><br />
+			<img src="setup/edit_bookmarklet_02.png" /><br />
+			<li>Click Save, and you're done</li>
+		</ol>
 	</body>
 </html>

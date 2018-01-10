@@ -3,7 +3,7 @@ A **bookmarklet** that displays additional market information on EtherDelta.
 
 ## Why did I build this?
 
-I was curious as to which tokens showed the most genuine interest based on the total ETH committed to the EtherDelta contract. I was also curious if the current market price accurately reflected the price when compared to a balanced market.
+I was curious as to which tokens showed the most genuine interest based on the total ETH committed to the EtherDelta contract. I was also curious if the current market price accurately reflected the price when compared to a balanced market. It's possible this project will become a Chrome Extension if there is interest.
 
 ## Why a bookmarklet?
 It's a simple and unobtrusive way to modify an existing page using JavaScript. [More information on bookmarklets](https://en.wikipedia.org/wiki/Bookmarklet).
