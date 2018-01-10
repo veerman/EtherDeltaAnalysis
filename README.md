@@ -29,8 +29,7 @@ It's a simple and unobtrusive way to modify an existing page using JavaScript. [
 **Cheapest Sell Price vs Avg ETHs/Token**	- The Cheapest Sell Price divided by Average ETHs per 1 Token from above. The closer to 1.0x the closer the current price reflects the balanced market price. If the multiple is higher, it could signal that the mar
 
 ## Instructions
-1. Visit [Add Bookmarklet](https://htmlpreview.github.io/?https://raw.githubusercontent.com/veerman/EtherDeltaAnalysis/master/add_bookmarklet.html)
-2. Drag the EDA bookmarklet to your bookmarks bar
+1. Visit and complete steps in [Add Bookmarklet](https://htmlpreview.github.io/?https://raw.githubusercontent.com/veerman/EtherDeltaAnalysis/master/add_bookmarklet.html)
 3. Visit [EtherDelta](https://etherdelta.com/)
 4. Click **EDA** bookmarklet in bookmarks bar to activate
 5. Success (EDA refreshes automatically every 10 seconds)
